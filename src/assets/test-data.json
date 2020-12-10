@@ -1,0 +1,85 @@
+{
+  "pagination": {
+    "limit": 5,
+    "offset": 0,
+    "count": 5,
+    "total": 253
+  },
+  "data": [
+    {
+      "open": 124.37,
+      "high": 124.98,
+      "low": 123.09,
+      "close": 124.38,
+      "volume": 82225512,
+      "adj_high": 124.98,
+      "adj_low": 123.09,
+      "adj_close": 124.38,
+      "adj_open": 124.37,
+      "adj_volume": 82225512,
+      "symbol": "AAPL",
+      "exchange": "XNAS",
+      "date": "2020-12-08T00:00:00+0000"
+    },
+    {
+      "open": 122.31,
+      "high": 124.57,
+      "low": 122.25,
+      "close": 123.75,
+      "volume": 86711990,
+      "adj_high": 124.57,
+      "adj_low": 122.25,
+      "adj_close": 123.75,
+      "adj_open": 122.31,
+      "adj_volume": 86711990,
+      "symbol": "AAPL",
+      "exchange": "XNAS",
+      "date": "2020-12-07T00:00:00+0000"
+    },
+    {
+      "open": 122.6,
+      "high": 122.8608,
+      "low": 121.52,
+      "close": 122.25,
+      "volume": 78260421,
+      "adj_high": 122.8608,
+      "adj_low": 121.52,
+      "adj_close": 122.25,
+      "adj_open": 122.6,
+      "adj_volume": 78260421,
+      "symbol": "AAPL",
+      "exchange": "XNAS",
+      "date": "2020-12-04T00:00:00+0000"
+    },
+    {
+      "open": 123.52,
+      "high": 123.78,
+      "low": 122.21,
+      "close": 122.94,
+      "volume": 78967630,
+      "adj_high": 123.78,
+      "adj_low": 122.21,
+      "adj_close": 122.94,
+      "adj_open": 123.52,
+      "adj_volume": 78967630,
+      "symbol": "AAPL",
+      "exchange": "XNAS",
+      "date": "2020-12-03T00:00:00+0000"
+    },
+    {
+      "open": 122.02,
+      "high": 123.37,
+      "low": 120.89,
+      "close": 123.08,
+      "volume": 89004195,
+      "adj_high": 123.37,
+      "adj_low": 120.89,
+      "adj_close": 123.08,
+      "adj_open": 122.02,
+      "adj_volume": 89004195,
+      "symbol": "AAPL",
+      "exchange": "XNAS",
+      "date": "2020-12-02T00:00:00+0000"
+    }
+  ]
+}
