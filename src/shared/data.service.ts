@@ -7,7 +7,7 @@ import { HttpClient } from '@angular/common/http'
 export class DataService {
   private api = 'http://api.marketstack.com/v1/eod?access_key={1}&symbols={0}&limit=1'
 
-  private accesskey = '252259e766af0d7bc744acf833d2b096'; // Place Access Key Here
+  private accesskey = ' '; // Place Access Key Here
   constructor(private http: HttpClient) { }
 
   public getStockInformation(ticker){
