@@ -12,13 +12,13 @@ export class DataService {
 
   public getStockInformation(ticker){
 
-    let api = this.api.replace('{0}', ticker);
-    api = api.replace('{1}', this.accesskey);
+    //let api = this.api.replace('{0}', ticker);
+    //api = api.replace('{1}', this.accesskey);
 
-    return this.http.get(api)
+    //return this.http.get(api)
 
 
-    //return this.http.get('/assets/test-data.json');
+    return this.http.get('/assets/test-data.json');
   }
 
 }
