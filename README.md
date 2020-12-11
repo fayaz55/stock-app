@@ -5,7 +5,7 @@ This is an angular stock market project I made which takes real time stock data 
 
 ## How to use App 
 
-To use the web app, you need to get your own stock API for free from `marketstackapi.com`. Once you get your authentication key simply paste the key in `data.service.ts` in line 9 for the `accesskey` variable. This file is located in the `src\shared folder` 
+To use the web app, you need to get your own stock API for free from `marketstackapi.com`. Once you get your authentication key simply paste the key in `data.service.ts` in line 9 for the `accesskey` variable. This file is located in the `src\shared` folder 
 
 ```TypeScript 
 
